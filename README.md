@@ -1,0 +1,105 @@
+# QuickCourt - A Local Sports Booking Platform
+
+## Problem Statement
+
+QuickCourt is a local sports booking platform designed to help users quickly and easily reserve sports facilities in their area. The platform streamlines the process of finding and booking sports courts, making it convenient for sports enthusiasts to access facilities in their locality.
+
+## Features
+
+- **User Authentication**: Secure login system with role-based access (Admin, Owner, User)
+- **Dashboard Interface**: Different dashboards for different user types
+- **Facility Management**: Comprehensive facility booking and management system
+- **Real-time Booking**: Instant booking confirmation and status updates
+- **Responsive Design**: Modern UI built with React, TypeScript, and Tailwind CSS
+- **Firebase Integration**: Backend services for authentication and data management
+
+## Tech Stack
+
+- **Frontend**: React 18, TypeScript, Vite
+- **Styling**: Tailwind CSS
+- **Backend**: 
+  - Firebase (Authentication, Firestore)
+  - Node.js
+  - MySQL
+- **Build Tool**: Vite
+- **Package Manager**: npm
+
+## Team Members - CodeRex (SkyHack 2025)
+
+### Nitesh Yadav
+- **Role**: Frontend Developer (React.js)
+
+### Talreja Sujal
+- **Role**: Frontend Developer (React.js)
+
+### Pranjal
+- **Role**: Backend Developer (Node.js)
+
+### Tushar Gupta
+- **Role**: Backend Developer (Firebase)
+
+### Rohit Patil
+- **Role**: Backend Developer (MySQL)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Sujaltalreja04/QuickCourt---A-Local-Sports-Booking-team-217-odoo-hackathon-2025.git
+cd QuickCourt---A-Local-Sports-Booking-team-217-odoo-hackathon-2025
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Set up Firebase configuration:
+   - Create a Firebase project
+   - Enable Authentication and Firestore
+   - Add your Firebase config to `src/lib/firebase.ts`
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open your browser and navigate to `http://localhost:5173`
+
+## Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+├── context/            # React context providers
+├── data/               # Mock data and constants
+├── lib/                # Utility libraries (Firebase)
+├── pages/              # Page components
+├── types/              # TypeScript type definitions
+└── main.tsx           # Application entry point
+```
+
+## Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
+
+## Contributing
+
+This project was developed for the SkyHack 2025 by Team CodeRex.
+
+## License
+
+This project is part of the SkyHack 2025 submission.
+
+
+- **Video Link**: (https://drive.google.com/file/d/1KLIHf8CddYtERUejjbMb3mIWPs-Enx4o/view?usp=sharing)
