@@ -11,7 +11,7 @@
 
 ### 🌐 **[Live Demo →](https://quick-court-sports-booking-platform.vercel.app/)**
 
-[🎯 Features](#-features) • [🚀 Quick Start](#-quick-start) • [🛠️ Tech Stack](#️-tech-stack) • [👥 Team](#-team)
+[🎯 Features](#-features) • [🚀 Quick Start](#-quick-start) • [🛠️ Tech Stack](#️-tech-stack) • [� Video Demo](https://youtu.be/gPQKzjZSBvU) • [�👥 Team](#-team)
 
 ---
 
